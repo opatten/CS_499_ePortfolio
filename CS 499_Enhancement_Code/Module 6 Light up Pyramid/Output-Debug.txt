@@ -1,0 +1,96 @@
+﻿'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Users\Veteran\source\repos\Module 6 Light up Pyramid\Debug\Module 6 Light up Pyramid.exe'. Symbols loaded.
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Users\Veteran\source\repos\Module 6 Light up Pyramid\Debug\glew32.dll'. Module was built without symbols.
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\DXCore.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+The thread 0x7e54 has exited with code 0 (0x0).
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dinput8.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\XInput1_4.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\InputHost.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\hid.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\directxdatabasehelper.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_ee886259e92968aa\nvdlist.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\version.dll'
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_ee886259e92968aa\nvdlist.dll'
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_ee886259e92968aa\nvdlist.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\clbcatq.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\AppXDeploymentClient.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\AppXDeploymentClient.dll'
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_51f685305808e3a5\ig9icd32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dxgi.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_51f685305808e3a5\igdml32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\version.dll'
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_ee886259e92968aa\nvdlist.dll'
+The thread 0x8134 has exited with code 0 (0x0).
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_ee886259e92968aa\nvdlist.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\version.dll'
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_ee886259e92968aa\nvdlist.dll'
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_ee886259e92968aa\nvdlist.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_51f685305808e3a5\igdgmm32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\version.dll'
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_ee886259e92968aa\nvdlist.dll'
+The thread 0x5dd0 has exited with code 0 (0x0).
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\version.dll'
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_51f685305808e3a5\igc32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\umpdc.dll'. 
+The thread 0x1180 has exited with code 1 (0x1).
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. 
+'Module 6 Light up Pyramid.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. 
+The thread 0x980 has exited with code 0 (0x0).
+The thread 0x37b0 has exited with code 0 (0x0).
+The thread 0x9ba0 has exited with code 0 (0x0).
+The thread 0x7580 has exited with code 0 (0x0).
+The thread 0x7940 has exited with code 0 (0x0).
+The thread 0x9100 has exited with code 0 (0x0).
+The thread 0x9f10 has exited with code 0 (0x0).
+The thread 0x9750 has exited with code 0 (0x0).
+The thread 0x6200 has exited with code 0 (0x0).
+The thread 0x6110 has exited with code 0 (0x0).
+The program '[38368] Module 6 Light up Pyramid.exe' has exited with code 0 (0x0).

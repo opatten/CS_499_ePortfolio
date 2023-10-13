@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Module 6 Light up Pyramid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  Module 6 Light up Pyramid.vcxproj -> C:\Users\Veteran\source\repos\Module 6 Light up Pyramid\Debug\CS499 Artifact Enhancement.exe
